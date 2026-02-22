@@ -1,6 +1,6 @@
 ---
 name: red-team-grant-social-significance-ru
-description: Adversarial verification for AI-generated social significance justification sections in Russian grant applications. Use when verifying statistics, research citations, legal references, and factual claims in grant proposals targeting Russian foundations (Фонд президентских грантов, СФИ, Фонд Тимченко и др.). Produces structured verification reports with severity-categorized errors, verified sources, and submission readiness assessment.
+description: Adversarial verification for AI-generated social significance justification sections in Russian grant applications. Use when verifying statistics, research citations, legal references, and factual claims in grant proposals targeting Russian foundations (Фонд президентских грантов, Фонд Тимченко и др.). Produces structured verification reports with severity-categorized errors, verified sources, and submission readiness assessment.
 metadata:
   author: Lena Pirogova (adapted from Patrick Munro's Legal Red Team Verifier)
   license: AGPL-3.0
